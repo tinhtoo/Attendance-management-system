@@ -1,1 +1,3 @@
-# Attendance-management-system
+# sue
+
+勤怠管理アプリ
